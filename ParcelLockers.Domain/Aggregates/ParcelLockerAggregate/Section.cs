@@ -1,3 +1,6 @@
+namespace ParcelLocker.Domain.Aggregates.ParcelLockerAggregate;
+
+
 public class Section : ISection
 {
     private List<ILocker> lockers;

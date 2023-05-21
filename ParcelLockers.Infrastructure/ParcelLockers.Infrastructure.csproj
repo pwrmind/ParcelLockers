@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ParcelLockers.Domain\ParcelLockers.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
